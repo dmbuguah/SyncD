@@ -1,4 +1,4 @@
-package io.travicon.www.syncd;
+package io.travicon.syncd;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("io.travicon.www.syncd", appContext.getPackageName());
+        assertEquals("io.travicon.www.io.travicon.io.travicon.io.travicon.io.travicon.syncd", appContext.getPackageName());
     }
 }
