@@ -1,4 +1,4 @@
-package io.travicon.www.syncd;
+package io.travicon.syncd.syncd;
 
 import org.junit.Test;
 
